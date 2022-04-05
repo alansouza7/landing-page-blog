@@ -1,0 +1,186 @@
+@media (max-width:425px){
+    header {
+        background-color: #eeeeee;
+        height: 180px;
+    }
+    
+    .cabecalho ul li {
+        display: block;
+        width: 70px;
+        font-size: 15px;
+        position: relative;
+        left: 191px;
+        margin: 0;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .cabecalho ul li .trips {
+        position: relative;
+        width: 0;
+        position: relative;
+        left:1px;
+        margin: 0;
+        padding: 8px;
+    }
+
+    .social-media .instagram,
+.social-media .linkedin {
+    width: 20px;
+    position: relative;
+    right: 138px;
+    top: 30px;
+}
+
+.painel {
+    height: 245px;
+  
+ 
+}
+
+.painel h2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    top: 50%;
+    transform: translatey(-80%);
+    padding: 5px;
+}
+
+.painel p {
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    top: 26%;
+    padding:3px;
+}
+
+.fotos-meio {
+    justify-content: center;
+    display: flex;
+    margin: 30px 0;
+    padding: 0 10px;
+}
+
+.fotos-meio .image-2,
+.fotos-meio .image-3,
+.fotos-meio .image-5{
+    width: 200px;
+    height: 120px;
+    padding: 0 5px;
+}
+
+
+.description {
+    font-size: 12px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    margin: 30px;
+    
+}
+
+.sites-used div{
+    display: flex;
+    justify-content: space-around;
+    background-color: #eeeeee;
+    height: 100px;
+    margin-bottom: 30px;
+    
+}
+
+.sites-used div p,
+.sites-used div a{
+    font-size: 15px;
+    position: relative;
+    top: 30%;
+    padding: 5px;
+}
+
+.skyscanner-picture {
+    width: 80px;
+    height: 50px;
+    position: relative;
+    bottom: 10px;
+}
+
+.hostelworld-picture {
+    width: 100px;
+    height: 40px;
+    position: relative;
+    bottom: 10px;
+}
+
+.freetour-picture {
+    width: 100px;
+    height: 10px;
+    top: 8px;
+    position: relative;
+    
+}
+
+.latvia,
+.poland,
+.bulgaria {
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 20px 0 10px 0;
+}
+
+.social-media-bottom {
+    background-color: #bbdefb;
+    height: 50px;
+    
+}
+
+.instagram-bottom,
+.linkedin-bottom{
+   position: relative;
+   left: 45%;
+   transform: translateX(-50%);
+   margin: 5px;
+   width: 20px;
+   
+}
+
+.rodape {
+    height: 150px;
+    position: relative;
+}
+
+.rodape .perfil {
+    left: 10px;
+    position: relative;
+    top: 30px;
+    width: 90px;
+}
+
+
+.contact {
+   font-size: 7px;
+   position: relative;
+   bottom: 62px;
+   left: 110px;
+   width: 100px;
+   height: 100px;
+   margin: 0;
+   padding: 0;
+}
+
+.created-by {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+    height: 00px;
+    font-size: 8px;
+    left: 10px;
+    bottom: 62px;
+}
+
+
+}

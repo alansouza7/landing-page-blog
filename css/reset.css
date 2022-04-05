@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    outline: none;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
