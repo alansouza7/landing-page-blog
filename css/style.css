@@ -47,7 +47,9 @@ header {
 
 .painel {
     height: 475px;
-    background-image: url('../images/back-blue.jpg');
+    background: url('../images/back-nature.jpg') center center no-repeat;
+    position: relative;
+    background-size: cover;
 }
 
 .painel h2 {
@@ -58,14 +60,16 @@ header {
     top: 50%;
     transform: translatey(-80%);
     padding: 5px;
+    font-weight: bold;
 }
 
 .painel p {
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
     position: relative;
     top: 26%;
     padding:3px;
+    
 }
 
 .fotos-meio {
