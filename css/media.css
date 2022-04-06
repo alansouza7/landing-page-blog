@@ -52,7 +52,7 @@
     font-size: 10px;
     text-align: center;
     position: relative;
-    top: 26%;
+    top: 18%;
     padding:3px;
 }
 
@@ -60,14 +60,14 @@
     justify-content: center;
     display: flex;
     margin: 30px 0;
-    padding: 0 10px;
+    padding: 0 0px;
 }
 
 .fotos-meio .image-2,
 .fotos-meio .image-3,
 .fotos-meio .image-5{
-    width: 200px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     padding: 0 5px;
 }
 
@@ -99,23 +99,23 @@
 }
 
 .skyscanner-picture {
-    width: 80px;
-    height: 50px;
+    width: 50px;
+    height: 40px;
     position: relative;
     bottom: 10px;
 }
 
 .hostelworld-picture {
-    width: 100px;
+    width: 70px;
     height: 40px;
     position: relative;
     bottom: 10px;
 }
 
 .freetour-picture {
-    width: 100px;
+    width: 70px;
     height: 10px;
-    top: 8px;
+    top:0;
     position: relative;
     
 }
